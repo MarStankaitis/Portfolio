@@ -1,6 +1,5 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#CV) 
 - [Skills](#Skills)
 - [Tools](#Tools)
 - [Courses](#Courses)
@@ -11,7 +10,9 @@
 
 ## About me
 
-## CV
+
+* [My LinkedIn Profile](https://www.linkedin.com/in/marijonas-stankaitis/)
+* [My CV](https://drive.google.com/file/d/1YkgLrRupoRa5pleNk7KoadfxHjTkyQ4E/view?usp=sharing)
 
 
 ## Skills
@@ -38,6 +39,10 @@ __Jira__
 
 __WebdriverIO__
 
+## Courses
+
+__Software Testing (CodeAcademy)__
+* 80-hour software testing course aimed at providing fundamental knowledge and practical skills in software testing
 ## Examples of my work
 
 __Mi Band 4 & Zepp Life app testing__
