@@ -12,7 +12,7 @@
 
 
 * [My LinkedIn Profile](https://www.linkedin.com/in/marijonas-stankaitis/)
-* [My CV](https://drive.google.com/file/d/1O-oKgZpX6nanPnum4kZ5SzbmZ5OmLzVu/view?usp=sharing)
+* [My CV](https://drive.google.com/file/d/1SKvuCSHjcgFn7DSTDKNmeIgxc5nqwvbm/view?usp=sharing)
 
 
 ## Skills
