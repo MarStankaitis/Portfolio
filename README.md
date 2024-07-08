@@ -2,11 +2,11 @@
 - [About me](#about-me)
 - [CV](#CV) 
 - [Skills](#Skills)
-- [Tools] 
-- [Courses] 
-- [Examples of my work] 
-  *
-- [Books I have read] 
+- [Tools](#Tools)
+- [Courses](#Courses)
+- [Examples of my work](#Examples-of-my-work)
+  * Mi Band 4 & Zepp Life app testing
+- [Books I have read](#Books-I-have-read) 
 
 
 ## About me
