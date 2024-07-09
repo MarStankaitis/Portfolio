@@ -20,17 +20,25 @@ In this portfolio, I would like to share my testing knowledge and technical skil
 
 ## Skills
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications, mobile apps
-    
-__Automated testing__
-  * can prepare basic web test automation using WebdriverIO 
+__Test planning & control__ 
 
 __Test analysis & design__
+  * can analyze test items to identify test conditions and test data required.
+  * able to utilize various test design techniques: specification-based, structure-based when designing the tests
 
 __Exploratory testing__
+  
+__Manual testing__
+  * can perform manual functional and usability testing of web applications, mobile apps, and devices
+    
+__Automated testing__
+  * able to prepare basic web test automation using WebdriverIO
 
-__Test documentation__
+__Performance testing__
+  * gained hands-on experience on performance testing by testing web applications created for educational purposes
+
+__API testing__ 
+  * gained experience through manual testing of APIs created for educational purposes
 
 __SQL databases__
   * can write basic SQL queries
@@ -38,17 +46,16 @@ __SQL databases__
 
 ## Tools
 
-__Qase__
+__Qase__ - Test management
 
-__Jira__
+__Jira__ - Project management, bug reporting
 
-__WebdriverIO__
+__WebdriverIO__ - Test automation
 
-__Postman__
+__Postman__ - API testing
 
-__JMeter__
+__JMeter__ - Web application performance testing
 
-__Chrome Devtools__
 
 ## Courses
 
