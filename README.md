@@ -5,7 +5,6 @@
 - [Courses](#Courses)
 - [Examples of my work](#Examples-of-my-work)
   * Mi Band 4 & Zepp Life app testing
-- [Books I have read](#Books-I-have-read) 
 
 
 ## About me
