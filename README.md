@@ -19,7 +19,8 @@ In this portfolio, I would like to share my testing knowledge and technical skil
 
 ## Skills
 
-__Test planning & control__ 
+__Test planning & control__
+  * gained hands-on experience by creating a test plan for the final study project
 
 __Test analysis & design__
   * can analyze test items to identify test conditions and test data required.
@@ -34,7 +35,7 @@ __Automated testing__
   * able to prepare basic web test automation using WebdriverIO
 
 __Performance testing__
-  * gained hands-on experience on performance testing by testing web applications created for educational purposes
+  * gained hands-on experience in performance testing by testing web applications created for educational purposes
 
 __API testing__ 
   * gained experience through manual testing of APIs created for educational purposes
