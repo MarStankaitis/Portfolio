@@ -27,7 +27,8 @@ __Test analysis & design__
   * able to utilize various test design techniques: specification-based, structure-based when designing the tests
 
 __Exploratory testing__
-  
+  * gained some hands-on experience while participating in an e-commerce store testing]
+
 __Manual testing__
   * can perform manual functional and usability testing of web applications, mobile apps, and devices
     
